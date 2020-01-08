@@ -10,3 +10,4 @@ React - Redux - Babel - Webpack - Jest - Enzyme - Heroku
 `yarn run test` or `yarn run test -- --watch` to run testes in watch mode
 
 # deploy in production
+`git push heroku master`
