@@ -19,3 +19,11 @@ export default [{
     amount: 4500,
     createdAt: moment(0).add(4, 'days').valueOf()
 }];
+
+export const brokenExpense = {
+    id: 'x',
+    description: 'Gum',
+    note: '',
+    amount: 'not number',
+    createdAt: 0
+}

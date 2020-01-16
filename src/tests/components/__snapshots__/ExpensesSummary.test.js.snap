@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExpenseSummary component renders $0.00 correctly if there is no expenses shown 1`] = `
+<div>
+  <h2>
+    Total: 
+    0
+  </h2>
+  <span>
+    $0.00
+  </span>
+</div>
+`;
+
+exports[`ExpenseSummary component renders with one expense 1`] = `
+<div>
+  <h2>
+    Total: 
+    1
+  </h2>
+  <span>
+    $123.00
+  </span>
+</div>
+`;
