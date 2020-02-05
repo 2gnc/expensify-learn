@@ -6,6 +6,8 @@ React - Redux - Babel - Webpack - Jest - Enzyme - Heroku
 
 `yarn run dev-server`
 
+DB: https://console.firebase.google.com
+
 # run tests
 `yarn run test` or `yarn run test -- --watch` to run testes in watch mode
 
